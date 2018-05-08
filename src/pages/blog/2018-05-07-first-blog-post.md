@@ -8,3 +8,7 @@ tags:
   - idk what im doing
 ---
 So far so good.  But I can't figure out how to see changes on the actual site.  Maybe this post will work?
+
+
+
+New post isn't showing up on-site.
